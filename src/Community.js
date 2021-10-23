@@ -62,8 +62,9 @@ const Community = () => {
         <div className="community_header_left">
           <h1>Community Partners</h1>
           <p>
-            Meet the brains behind the ideation,developemnt and execution of
-            Script Winter of Code.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro
+            suscipit laudantium quia, fugit ducimus minima quod non harum ut
+            nihil.
           </p>
         </div>
 
