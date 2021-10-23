@@ -57,6 +57,7 @@
 .content {
   box-shadow: 0px 15px 10px -15px #111;
   margin: 1rem;
+  text-decoration: none;
 }
 .content:hover {
   box-shadow: 0px 15px 10px -15px rgb(180, 104, 104);
